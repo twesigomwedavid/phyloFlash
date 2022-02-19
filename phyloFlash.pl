@@ -457,7 +457,7 @@ sub process_required_tools {
         barrnap => "$FindBin::RealBin/barrnap-HGV/bin/barrnap_HGV",
         vsearch => "vsearch",
         mafft => "mafft",
-        fastaFromBed => "bedtools fastaFromBed",
+        fastaFromBed => "fastaFromBed",
         sed => "sed",
         grep => "grep",
         awk => "awk",
